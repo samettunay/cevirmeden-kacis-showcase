@@ -6,7 +6,7 @@ Escape police checkpoints, weave through traffic, customize your cars and compet
 
 ## Highlights
 
-- 50K+ downloads on Google Play
+- 90K+ downloads on Google Play
 - Official gameplay video reached **630K+ views on YouTube**
 - High-speed traffic and near-miss gameplay
 - Police chase and checkpoint systems
